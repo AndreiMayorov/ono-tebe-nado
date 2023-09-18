@@ -345,8 +345,10 @@
 .footer__social-link {
   display: block;
   width: 48px;
+  height: 48px;
 }
 
 .header__logo-image {
   width: 100%;
+  height: 100%;
 }
